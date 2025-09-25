@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oezguerdeli" alt="oezguerdeli" /></a> </p>
 
-- 🔭 I’m currently working on [Heimlichgut](https://github.com/oezguerdeli/heimlichgut)
+- 🔭 I’m currently working on [Heimlichgut](https://github.com/oezguerdeli/heimlichgut) and [BlackTrace](https://www.blacktrace.at)
 
 - 📫 How to reach me **office@wedev-it.at**
 
