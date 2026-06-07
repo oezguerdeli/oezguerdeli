@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Özgür Deli</h1>
 <h3 align="center">A passionate Software Developer and Software Tester</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oezguerdeli&label=Profile%20views&color=0e75b6&style=flat" alt="oezguerdeli" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oezguerdeli" alt="oezguerdeli" /></a> </p>
 
 - 🔭 I’m currently working on [Heimlichgut](https://github.com/oezguerdeli/heimlichgut) and [BlackTrace](https://www.blacktrace.at)
