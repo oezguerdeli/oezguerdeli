@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Özgür Deli</h1>
 <h3 align="center">A passionate Software Developer and Software Tester</h3>
+<br>
 
 - 🔭 I’m currently working on [Heimlichgut](https://github.com/oezguerdeli/heimlichgut) and [BlackTrace](https://www.blacktrace.at)
-
 - 📫 How to reach me **office@wedev-it.at**
 
 <h3 align="left">Connect with me:</h3>
