@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer and Software Tester</h3>
 <br>
 
-- 🔭 I’m currently working on [Heimlichgut](https://github.com/oezguerdeli/heimlichgut) and [BlackTrace](https://www.blacktrace.at)
+- 🔭 I’m currently working on [Heimlichgut](https://github.com/oezguerdeli/heimlichgut), [BlackTrace](https://www.blacktrace.at) and [EasyOffer](https://www.easyoffer.at).
 - 📫 How to reach me **office@wedev-it.at**
 
 <h3 align="left">Connect with me:</h3>
